@@ -29,7 +29,7 @@ To run the Jupyter notebook, you will need:
 ### Installation and Usage
 - Clone this repository to your local machine.
 - Install the required libraries using pip install -r requirements.txt (if not already installed).
-- Open the FinalAssignment.ipynb notebook in Jupyter Notebook.
+- Open the Final Assignment.ipynb notebook in Jupyter Notebook.
 - Follow the instructions and code cells within the notebook to run the analysis.
 ## Contributing
 Contributions and feedback are welcome! Feel free to create pull requests or open issues to suggest improvements, share additional insights, or report any problems.
