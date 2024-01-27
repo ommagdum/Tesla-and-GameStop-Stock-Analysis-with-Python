@@ -1,6 +1,10 @@
 # Readme for Tesla and GameStop Stock Analysis with Python
 This repository contains a Jupyter notebook analyzing the historical performance of Tesla (TSLA) and GameStop (GME) stocks, completed as part of IBM's Python for Data Science course.
 
+*Caution : Download The Final Assignment.ipnby and follow the below mentioned steps to see the final outputs(graphs)*
+
+*If not then the graphs in .png format are provided in the repo*
+
 ## Project Overview
 This project explores the following aspects of both companies:
 
@@ -25,7 +29,7 @@ To run the Jupyter notebook, you will need:
 ### Installation and Usage
 - Clone this repository to your local machine.
 - Install the required libraries using pip install -r requirements.txt (if not already installed).
-- Open the stock_analysis.ipynb notebook in Jupyter Notebook.
+- Open the FinalAssignment.ipynb notebook in Jupyter Notebook.
 - Follow the instructions and code cells within the notebook to run the analysis.
 ## Contributing
 Contributions and feedback are welcome! Feel free to create pull requests or open issues to suggest improvements, share additional insights, or report any problems.
